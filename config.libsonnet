@@ -5,7 +5,7 @@
 
     // Duration to raise various Alerts
     clusterUtilizationAlertTime: '5m',
-    clusterStateAlertTime: '1m',
+    clusterStateAlertTime: '10m',
 
     // For links between grafana dashboards, you need to tell us if your grafana
     // servers under some non-root path.
